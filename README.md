@@ -1,6 +1,6 @@
 # closest-color
 
-Short script to find the visually closest matching color from a set of colors, given a target color.
+Short script to find the visually closest matching color from a set of colors, given a target color. Uses the CIE 2000 color difference algorithm.
 
 A file containing the colors from the 256colors set is provided in `/color-sets/256-colors.txt`.
 
